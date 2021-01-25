@@ -1,0 +1,10 @@
+--- Instructions ---
+
+Congratulations! You were able to successfully clone the repository, and find the instructions.
+Things will only get harder from here!
+
+For this assignment, we will keep things simple. Create a new file in the repository
+called all_about_me.txt. In the file, on the first line, type your first and last name.
+On the next line, type something that you are looking forward to learning about in this class this semester.
+On the third line, type something about you that you would like me to know.
+Once you have done that, commit your changes to the repository, and push your changes to GitHub.
